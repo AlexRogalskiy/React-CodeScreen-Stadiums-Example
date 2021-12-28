@@ -11,7 +11,7 @@ class StadiumsService {
 
 }
 
-StadiumsService.stadiumsEndpointURL = 'https://app.codescreen.dev/api/assessments/stadiums';
+StadiumsService.stadiumsEndpointURL = 'https://app.codescreen.com/api/assessments/stadiums';
 
 // Your API token. Needed to successfully authenticate when calling the stadiums endpoint.
 // This needs to be included in the Authorization header (using the Bearer authentication scheme) in the request you send to the stadiums endpoint.
